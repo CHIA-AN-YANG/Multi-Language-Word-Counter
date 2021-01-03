@@ -1,5 +1,5 @@
 # Multi-Language-Word-Counter
-Files to compose an online word counter that can count Mandarin, Japanese, English, as well as Indonesia...etc.
+Files to compose an online word counter that can count Mandarin, Japanese, English, as well as Indonesian letters...etc.
 
 This work is originally in Mandarin. English version may be added in the future.
 
@@ -33,7 +33,7 @@ JS(javascript)的部分曾困擾於要使用文字還是陣列做運算。中英
 ### 做統一的UI色彩規劃與設計 (已完成)
 按鈕顏色太亮，亮色可以用在其他需要強調的部分
 
-## 更完善作品集的要素 (已完成)
+### 更完善作品集的要素 (已完成)
 1. 動機與緣起
 2. 開發筆記
 3. 版權聲明、在footer放上個人資料與網站連結
